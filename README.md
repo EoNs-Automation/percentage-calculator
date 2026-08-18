@@ -31,3 +31,8 @@ A simple tool for common percentage calculations.
 ## About
 
 This project is part of **EoNs Automation**.
+
+## License
+
+This project is released under the MIT License.  
+For commercial use or custom versions, contact EoNs Automation.
