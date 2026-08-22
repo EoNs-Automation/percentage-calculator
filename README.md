@@ -16,6 +16,9 @@ A simple tool for common percentage calculations.
 
 [Try the web version here](https://percentage-calculator-b9ba6d.netlify.app/)
 
+Also in the EoNs Tools Hub:
+https://tool-hub-f5b755.netlify.app/
+
 ## How to Use (Python)
 
 1. Run the script
